@@ -1,2 +1,3 @@
 bbbbbbbbbbbbbb
 test上第一个不同的节点，将要变基的节点
+test上第二个不同节点，准备变基使用
